@@ -40,8 +40,8 @@ CREATE TABLE `product` (
 --
 
 INSERT INTO `product` (`ID`, `Name`, `Description`, `Purchase_price`, `Quantity`) VALUES
-(20, 'alu kalu', 'abc', 23, 423),
-(21, ' kumra ', ' kumra valo ', 405, 15);
+(5, 'Catfood', 'Salty', 500, 10),
+(6, ' Mango ', ' Summer fruit ', 200, 3);
 
 -- --------------------------------------------------------
 
