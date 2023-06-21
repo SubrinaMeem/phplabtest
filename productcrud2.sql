@@ -63,10 +63,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `email`, `phone`, `password`) VALUES
-(6, 'Ashik Ghosh', 'ashik', 'ashikghosh763@gmail.com', '+8801722432449', '123'),
-(7, 'Shawmitra', 'shawmitra', 'shawmitra@gmail.com', '2322232', '123'),
-(8, 'Shawmitra', 'shawmitra12', 'shawmitra234@gmail.com', '1234', '123'),
-(9, 'Sharif', 'sharif', 'sharif@gmail.com', '2324242', 'sharif@gmail.com');
+(1, 'Subrina', 'ss', 'a123@gmail.com', '432449', '13'),
+(2, 'Meem', 'mm', 'ratcat@gmail.com', '2232', '13'),
+(3, 'Salman', 'ssj', 'ppst4@gmail.com', '1234', '13'),
+(4, 'Momo', 'mmo', 'mango@gmail.com', '4242','1');
 
 --
 -- Indexes for dumped tables
